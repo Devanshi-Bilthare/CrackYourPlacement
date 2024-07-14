@@ -21,6 +21,7 @@ class Solution {
 
 // optimized approach
 // tc - O(N)
+// sc - O(1)
 
 class Solution {
     public void sortColors(int[] nums) {
